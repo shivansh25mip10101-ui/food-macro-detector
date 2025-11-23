@@ -88,3 +88,5 @@ Full academic project report (PDF) included:
 ✔ UML-like descriptions
 ✔ Results & Challenges
 ✔ Future Scope
+🎓 Author
+Shivansh Sahni
